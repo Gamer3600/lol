@@ -1,5 +1,6 @@
+# tank(tadgik)
 def my_superfunction():
-    print('teahbjarihmk')
+    print('What an awesome print!')
 
 
 def main():
